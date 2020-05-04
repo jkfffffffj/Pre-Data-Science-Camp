@@ -1,6 +1,6 @@
 # Pre Data Science Camp
 
-A general introduction to Machine Learning concepts and math-statistical models. Completed hands-on small projects including data preprocessing, data visualization, model architecture and model evaluation.
+A general introduction to Machine Learning concepts and math-statistical models. Completed hands-on small projects including data preprocessing, data visualization, model architecture and model evaluation with pytorch and tensorflow
 
 ----------------------
 
